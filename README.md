@@ -1,3 +1,11 @@
 # twitch-giveaway-watchdog
 
-Jake asked me to make this one night. IDK why.
+Download the thing. Into a folder. Got to chrome://extensions
+
+Turn on developer mode 
+
+Click load unpacked 
+
+Select this folder. 
+
+It should just work from there. 
