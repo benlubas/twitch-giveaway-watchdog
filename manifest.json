@@ -1,0 +1,11 @@
+{
+  "name": "Twitch Givaway Watchdog",
+  "description": "Watches twitch chat for a givaway",
+  "version": "0.1",
+  "manifest_version": 3,
+  "background": {
+    "service_worker": "background.js"
+  },
+  "permissions": ["storage", "scripting", "tabs", "alarms"],
+  "host_permissions": ["http://www.twitch.tv/*", "https://www.twitch.tv/*"]
+}
